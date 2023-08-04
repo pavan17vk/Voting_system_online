@@ -1,0 +1,14 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,CC,Male,a,a,b,1
+1,10002,Prachi,Female,South,Surat,abcd,0
+2,10003,Het,Male,East,Surat,abcd,0
+3,10004,Shivanshi,Female,East,Gandhinagar,abcd,0
+4,10005,Rohan,Male,North,Bengaluru,abcd,0
+5,10006,a,Male,a,a,a,0
+6,10007,b,Male,b,b,b,1
+7,10008,pavan,Male,c,c,c,1
+8,10009,n,Male,n,n,n,0
+9,10010,nik,Male,kolar,k,k,0
+10,10011,chandu,Male,north,bangalore,abcd,0
+11,10012,Ch,Male,bangalore,north,1234,0
+12,10013,bbb,Female,north,bangalore,1234,1
